@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bdogy
-- 👀 I’m interested in App Dev
-- 🌱 I’m currently learning Swift and Python
-- 💞️ I’m looking to collaborate on TBD
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any beginer projects
 - 📫 How to reach me Jacksongrimm18@gmail.com
 
 <!---
