@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Bdogy
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Jackson
 - 💞️ I’m looking to collaborate on any beginer projects
 - 📫 How to reach me Jacksongrimm18@gmail.com
 - Also Check out my Codewars https://www.codewars.com/users/Bdogy18
