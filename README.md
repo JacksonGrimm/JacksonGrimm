@@ -6,7 +6,9 @@
 
 
 - 👋 Hi, I’m Jackson
-- 📫 How to reach me Jacksongrimm18@gmail.com
+- 📫 Reach me Jacksongrimm18@gmail.com
+- 🌳 [LinkTree](https://linktr.ee/jacksongrimm[)
+
 
 
 
