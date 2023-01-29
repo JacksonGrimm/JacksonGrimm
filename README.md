@@ -16,10 +16,12 @@ const JacksonGrimm = {
 
 
 ```
-- 🌳 [LinkTree](https://linktr.ee/jacksongrimm[)
 
+<a href="https://github.com/JacksonGrimm">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonGrimm&layout=compact" />
+</a>
 
-
+🌲[LinkTree](https://linktr.ee/jacksongrimm[)
 <!---
 Bdogy/Bdogy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
