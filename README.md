@@ -13,8 +13,6 @@ const JacksonGrimm = {
   readyToCode = true
 }
 
-
-
 ```
 
 <a href="https://github.com/JacksonGrimm">
