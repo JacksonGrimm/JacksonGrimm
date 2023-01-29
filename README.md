@@ -4,11 +4,19 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 
+```JavaScript
+const JacksonGrimm = {
+  name = "Jackson Grimm",
+  email = "Jacksongrimm18@gmail.com"
+  frontEnd = ["HTML", "CSS", "ReactJS", "BootStrap"]
+  backEnd = ["NodeJs", "Express", "MongoDB", "mySQL", "GraphQL", "REST-API"]
+  readyToCode = true
+}
 
-- 👋 Hi, I’m Jackson
-- 📫 Reach me Jacksongrimm18@gmail.com
+
+
+```
 - 🌳 [LinkTree](https://linktr.ee/jacksongrimm[)
-
 
 
 
