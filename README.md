@@ -6,11 +6,11 @@
 
 ```JavaScript
 const JacksonGrimm = {
-  name = "Jackson Grimm",
-  email = "Jacksongrimm18@gmail.com"
-  frontEnd = ["HTML", "CSS", "ReactJS", "BootStrap"]
-  backEnd = ["NodeJs", "Express", "MongoDB", "mySQL", "GraphQL", "REST-API"]
-  readyToCode = true
+  name: "Jackson Grimm",
+  email:"Jacksongrimm18@gmail.com"
+  frontEnd: ["HTML", "CSS", "ReactJS", "BootStrap"]
+  backEnd: [ "NodeJs", "Express", "MongoDB", "mySQL", "GraphQL", "REST-API"]
+  readyToCode: true
 }
 
 ```
