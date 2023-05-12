@@ -9,7 +9,7 @@ const JacksonGrimm = {
   name: "Jackson Grimm",
   email:"Jacksongrimm18@gmail.com",
   frontEnd: ["HTML", "CSS", "ReactJS", "BootStrap"],
-  backEnd: [ "NodeJs", "Express", "MongoDB", "mySQL", "GraphQL", "REST-API"],
+  backEnd: [ "NodeJs", "Express", "MongoDB", "mySQL", "GraphQL", "REST-API", "Oauth"],
   readyToCode: true
 }
 
