@@ -19,7 +19,6 @@ const JacksonGrimm = {
 <!-- <a href="https://github.com/JacksonGrimm">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonGrimm&layout=compact" />
 </a> -->
-![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonGrimm&show_icons=true&theme=radical)
 
 <!---
 Bdogy/Bdogy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
